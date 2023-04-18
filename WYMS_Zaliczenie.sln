@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYMS_Zaliczenie-API", "WYMS_Zaliczenie-API\WYMS_Zaliczenie-API.csproj", "{8A2EAFA2-62BA-48B7-A2E5-BB8DAF5B5D4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYMS_Zaliczenie", "WYMS_Zaliczenie\WYMS_Zaliczenie.csproj", "{4DF519FD-1CD0-439A-8B30-02C6ADDF0957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2EAFA2-62BA-48B7-A2E5-BB8DAF5B5D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2EAFA2-62BA-48B7-A2E5-BB8DAF5B5D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2EAFA2-62BA-48B7-A2E5-BB8DAF5B5D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2EAFA2-62BA-48B7-A2E5-BB8DAF5B5D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF519FD-1CD0-439A-8B30-02C6ADDF0957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF519FD-1CD0-439A-8B30-02C6ADDF0957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF519FD-1CD0-439A-8B30-02C6ADDF0957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF519FD-1CD0-439A-8B30-02C6ADDF0957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E8CBB0-9C1C-4432-BACE-FF6745122EB7}
+	EndGlobalSection
+EndGlobal
